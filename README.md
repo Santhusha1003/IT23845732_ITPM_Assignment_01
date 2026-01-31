@@ -1,0 +1,2 @@
+This repository contains the full Playwright project for ITPM Assignment 01, including all test scripts, configuration files, and a completed Excel file of test cases following the Appendix 2 template. It provides clear instructions on how to install dependencies (npm install) and run the tests (npx playwright test). The project is publicly accessible at https://github.com/Santhusha1003/IT23845732_ITPM_Assignment_01
+, and includes all necessary resources for evaluation.
